@@ -1,0 +1,2 @@
+# mimi
+no bad words
